@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Web Link
 
-https://pencilgamev1.herokuapp.com/
+https://pencil-game.herokuapp.com/
